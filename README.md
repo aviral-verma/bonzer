@@ -1,1 +1,1 @@
-This is a portfolio project: a search engine made using HTML, CSS, JavaScript, PHP and MySQL. The search engine can be accessed at the link: https://bonzersearch.000webhostapp.com/
+This is a portfolio project I made for learning purpose: a search engine made using HTML, CSS, JavaScript, PHP and MySQL. The search engine can be accessed at the link: https://bonzersearch.000webhostapp.com/
